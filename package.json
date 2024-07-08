@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "estimate-gas-widget": "^0.3.3",
+    "estimate-gas-widget": "^0.4.0",
     "next": "^14.2.3",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
