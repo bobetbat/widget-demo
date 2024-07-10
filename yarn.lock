@@ -740,7 +740,7 @@
   resolved "https://registry.yarnpkg.com/@mui/core-downloads-tracker/-/core-downloads-tracker-5.16.0.tgz#50153c698e321793c83a0283d8d7a9dc5d43858a"
   integrity sha512-8SLffXYPRVpcZx5QzxNE8fytTqzp+IuU3deZbQWg/vSaTlDpR5YVrQ4qQtXTi5cRdhOufV5INylmwlKK+//nPw==
 
-"@mui/icons-material@^5.15.21":
+"@mui/icons-material@^5.15.21", "@mui/icons-material@^5.16.0":
   version "5.16.0"
   resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.16.0.tgz#5269fda922fe5e6db3577ec497e8b987195606ef"
   integrity sha512-6ISoOhkp9w5gD0PEW9JklrcbyARDkFWNTBdwXZ1Oy5IGlyu9B0zG0hnUIe4H17IaF1Vgj6C8VI+v4tkSdK0veg==
@@ -2488,10 +2488,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-estimate-gas-widget@^0.3.19:
-  version "0.3.19"
-  resolved "https://registry.yarnpkg.com/estimate-gas-widget/-/estimate-gas-widget-0.3.19.tgz#6ebf1b33495264ee151f809a2703c57a8e5f9273"
-  integrity sha512-uXP1OQmau2fyPSV2yzb2PCK+fka1hlVxdV9EP4XmCR1Cu1BZkefYNWjQiQRpAl4eGNBsNcX8LvzRUEPCO6iMfw==
+estimate-gas-widget@^0.4.13:
+  version "0.4.13"
+  resolved "https://registry.yarnpkg.com/estimate-gas-widget/-/estimate-gas-widget-0.4.13.tgz#7d606900641e9806d3dc9e29fa6cda18ec94056e"
+  integrity sha512-UrdEL7o5k3svJQ5EneZOznTD+cY3+Zz+jPK0Nq0SYd1EItpc+wxCH5GwyvmTgGCQyLlG5Mptkt4shF/Dmu8OyA==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"

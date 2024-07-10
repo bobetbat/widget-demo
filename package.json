@@ -8,7 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "estimate-gas-widget": "^0.4.0",
+    "@mui/icons-material": "^5.16.0",
+    "@mui/material": "^5.15.21",
+    "estimate-gas-widget": "^0.4.13",
     "next": "^14.2.3",
     "react": "^18.3.0",
     "react-dom": "^18.3.0"
