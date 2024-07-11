@@ -2488,10 +2488,10 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-estimate-gas-widget@^0.4.17:
-  version "0.4.17"
-  resolved "https://registry.yarnpkg.com/estimate-gas-widget/-/estimate-gas-widget-0.4.17.tgz#aef9ef8b8b005dc19c1233cd79dc1c78616737c9"
-  integrity sha512-U83zs8gectB29J2Xf8JqK8QeB+/SUy/MtD+EP4vwfgzTE9YOuH/6T/lQv/LoNnMhI19ffYnVnICeiaCEIvzR5w==
+estimate-gas-widget@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/estimate-gas-widget/-/estimate-gas-widget-0.5.0.tgz#65d0422511441e9f1e5d2f17a70a9a9f7b066563"
+  integrity sha512-tEeHPjWyDjT0miTfW2+xNUFNR35wVsZaXPRB7B8i72e2Y7SApD0MnksZvUDhTA26ECJ8J03c7w33axiwyS+v2Q==
   dependencies:
     "@emotion/react" "^11.11.4"
     "@emotion/styled" "^11.11.5"
